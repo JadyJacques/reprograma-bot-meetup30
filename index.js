@@ -1,7 +1,7 @@
 const TelegramBot = require('node-telegram-bot-api');
 const { Random } = require('random-js');
 const random = new Random;
-const token = "TOKENQUEOBOTFATHERMEDEU";
+const token = "OTOKENQUEOBOTFATHERMEDEU";
 
 const  complimentSpeech = [
   'Você manda muito bem',
